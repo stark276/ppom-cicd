@@ -7,7 +7,9 @@
         <listener class-name="techniqum.Selenium.TestComponents.Listeners"/>
     </listeners>
 
-    <!-- Group Configuration -->
+    <!-- Group Configuration blablabla -->
+
+
     <!-- Test Configurations -->
    
 
