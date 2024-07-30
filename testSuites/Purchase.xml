@@ -13,7 +13,7 @@
 
     <test name="Submit Order Test" thread-count="5">
         <classes>
-            <class name="techniqum.Selenium.tests.StandAloneTest2"/>
+            <class name="techniqum.Selenium.tests.StandAloneTest"/>
         </classes>
     </test>
     <test thread-count="5" name="Error Validations Test">
